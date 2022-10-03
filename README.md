@@ -13,4 +13,4 @@
 
 ### Dataset:
 
-- We use JF17K,  WikiPeople, JF17K$^-$ and WD50K datasets for evaluation. 
+- We use JF17K,  WikiPeople, JF17K_clean, WikiPeople_clean and WD50K datasets for evaluation. 
