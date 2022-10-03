@@ -13,15 +13,24 @@
 
 ### Dataset:
 
-- We use jf17k,  wikipeople, jf17k_clean, WikiPeople_clean and WD50K datasets for evaluation. 
+- We use jf17k,  wikipeople, jf17k_clean, wikipeople_clean and wd50k datasets for evaluation. 
 
 ### Training model from scratch:
 
 - To start training **InteractE** run:
 
   ```shell
-  # JF17K
-  python run.py --data JF17K --gpu 0 --name fb15k_237_run
+  # jf17k
+  python run.py --data jf17k --gpu 0 --max_quals 8
   
-  # WN18RR
-  python interacte.py --data WN18RR --batch 256 --train_strategy one_to_n --feat_drop 0.2 --hid_drop 0.3 --perm 4 --ker_sz 11 --lr 0.001
+  # wikipeople
+  python run.py --data wikipeople --gpu 0 --max_quals 14
+  
+  # jf17k_clean
+  python run.py --data jf17k_clean --gpu 0 --max_quals 8
+  
+  # wikipeople_clean
+  python run.py --data wikipeople --gpu 0 --max_quals 10
+  
+  # wd50k
+  python run.py --data wd50k --gpu 0 --max_quals 12
