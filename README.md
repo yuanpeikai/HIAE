@@ -6,3 +6,11 @@
   Overview of HIAE
   <img align="center"  src="./overview.png" alt="...">
 </h2>
+
+### Dependencies
+
+- PyTorch 1.x and Python 3.x.
+
+### Dataset:
+
+- We use JF17K,  WikiPeople, JF17K$^-$ and WD50K datasets for evaluation. 
