@@ -37,4 +37,4 @@
   
 ### Acknowledgement
 
-Parts of our codes come from [InteractE](https://github.com/malllabiisc/InteractE). Thanks for their contributions.
+- Parts of our codes come from [InteractE](https://github.com/malllabiisc/InteractE). Thanks for their contributions.
