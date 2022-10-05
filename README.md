@@ -13,7 +13,7 @@
 
 ### Dataset:
 
-- We use jf17k,  wikipeople, jf17k_clean, wikipeople_clean and wd50k datasets for evaluation. 
+- We use jf17k,  wikipeople, jf17k_clean, wikipeople_clean, and wd50k datasets for evaluation. 
 
 ### Training model from scratch:
 
@@ -37,4 +37,7 @@
   
 ### Acknowledgement
 
-- Parts of our codes come from [InteractE](https://github.com/malllabiisc/InteractE). Thanks for their contributions.
+- Parts of our codes come from [StaeE](https://github.com/migalkin/StarE), [InteractE](https://github.com/malllabiisc/InteractE). Thanks for their contributions.
+
+
+
