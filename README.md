@@ -17,7 +17,7 @@
 
 ### Training model from scratch:
 
-- To start training **InteractE** run:
+- To start training **HIAE** run:
 
   ```shell
   # jf17k
