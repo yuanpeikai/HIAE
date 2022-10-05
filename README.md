@@ -37,7 +37,7 @@
   
 ### Acknowledgement
 
-- Parts of our codes come from [StaeE](https://github.com/migalkin/StarE), [InteractE](https://github.com/malllabiisc/InteractE). Thanks for their contributions.
+- Parts of our codes come from [StarE](https://github.com/migalkin/StarE), [InteractE](https://github.com/malllabiisc/InteractE), and HINGE(https://github.com/eXascaleInfolab/HINGE_code). Thanks for their contributions.
 
 
 
