@@ -34,3 +34,7 @@
   
   # wd50k
   python run.py --data wd50k --gpu 0 --max_quals 12
+  
+### Acknowledgement
+
+Parts of our codes come from [InteractE](https://github.com/malllabiisc/InteractE). Thanks for their contributions.
