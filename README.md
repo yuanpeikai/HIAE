@@ -30,7 +30,7 @@
   python run.py --data jf17k_clean --gpu 0 --max_quals 8
   
   # wikipeople_clean
-  python run.py --data wikipeople --gpu 0 --max_quals 10
+  python run.py --data wikipeople_clean --gpu 0 --max_quals 10
   
   # wd50k
   python run.py --data wd50k --gpu 0 --max_quals 12
